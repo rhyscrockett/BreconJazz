@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreconJazz", "BreconJazz.csproj", "{DAB5531B-AE1B-4463-A0BB-E9B718C6D9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB5531B-AE1B-4463-A0BB-E9B718C6D9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB5531B-AE1B-4463-A0BB-E9B718C6D9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB5531B-AE1B-4463-A0BB-E9B718C6D9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB5531B-AE1B-4463-A0BB-E9B718C6D9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AC4C082-1D4B-4A9F-9387-7FBE02FCD07B}
+	EndGlobalSection
+EndGlobal
