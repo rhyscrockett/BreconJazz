@@ -1,4 +1,5 @@
 using BreconJazz.Components;
+using BreconJazz.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
+builder.Services.AddSingleton<FestivalDataService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

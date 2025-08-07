@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Pages\Bands\" />
+    <Folder Include="Pages\Schedule\" />
+  </ItemGroup>
+
 </Project>
